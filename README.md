@@ -62,7 +62,7 @@ Goal-driven technologist with expertise in web development, blockchain, and algo
     <img width="49%" src="https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api?username=nve-quant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Nicholas's%20GitHub%20Stats&commits=2100&prs=46&stars=10&contributed=15"/>
     <img width="49%" src="https://streak-stats.demolab.com?user=nve-quant&theme=radical&hide_border=true&total_contributions=2100"/>
   </div>
-  <img width="85%" src="https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api/top-langs/?username=nve-quant&theme=radical&hide_border=true&card_width=1000&custom_title=Most%20Used%20Languages&langs_count=12&hide=html,css&column_layout=4&custom_languages=Python:38.5;TypeScript:14.2;JavaScript:12.8;Rust:8.6;C++:6.8;Solidity:4.2;Shell:3.8;Go:3.2;C:2.9;Dockerfile:2.1;PowerShell:1.6;Makefile:1.3"/>
+  <img width="85%" src="https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api/top-langs/?username=nve-quant&theme=radical&hide_border=true&card_width=1000&custom_title=Most%20Used%20Languages&langs_count=12&hide=html,css&grid_layout=4&custom_languages=Python:38.5;TypeScript:14.2;JavaScript:12.8;Rust:8.6;C++:6.8;Solidity:4.2;Shell:3.8;Go:3.2;C:2.9;Dockerfile:2.1;PowerShell:1.6;Makefile:1.3"/>
 </div>
 
 ## 🌐 Connect with me
