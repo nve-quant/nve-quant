@@ -58,11 +58,13 @@ Goal-driven technologist with expertise in web development, blockchain, and algo
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api?username=nve-quant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Nicholas's%20GitHub%20Stats&commits=2100&prs=46&stars=10&contributed=15)
-
-![Top Languages](https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api/top-langs/?username=nve-quant&layout=compact&theme=radical&hide_border=true&card_width=445&custom_title=Most%20Used%20Languages&langs_count=12&hide=html,css&custom_languages=Python:38.5;TypeScript:14.2;JavaScript:12.8;Rust:8.6;C++:6.8;Solidity:4.2;Shell:3.8;Go:3.2;C:2.9;Dockerfile:2.1;PowerShell:1.6;Makefile:1.3)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nve-quant&theme=radical&hide_border=true&total_contributions=2100)
+<div align="center">
+  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px">
+    <img width="49%" src="https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api?username=nve-quant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Nicholas's%20GitHub%20Stats&commits=2100&prs=46&stars=10&contributed=15"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=nve-quant&theme=radical&hide_border=true&total_contributions=2100"/>
+  </div>
+  <img width="85%" src="https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api/top-langs/?username=nve-quant&layout=compact&theme=radical&hide_border=true&card_width=1000&custom_title=Most%20Used%20Languages&langs_count=12&hide=html,css&custom_languages=Python:38.5;TypeScript:14.2;JavaScript:12.8;Rust:8.6;C++:6.8;Solidity:4.2;Shell:3.8;Go:3.2;C:2.9;Dockerfile:2.1;PowerShell:1.6;Makefile:1.3&columns=4"/>
+</div>
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-van-eerde)
