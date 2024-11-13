@@ -49,6 +49,14 @@ Goal-driven technologist with expertise in web development, blockchain, and algo
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+# Testing
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+# IDE/Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api?username=nve-quant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Nicholas's%20GitHub%20Stats&commits=2100&prs=46&stars=10&contributed=15)
 
