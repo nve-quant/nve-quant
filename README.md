@@ -39,7 +39,7 @@ Goal-driven technologist with expertise in web development, blockchain, and algo
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api?username=nve-quant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&custom_title=Nicholas's%20GitHub%20Stats&commits=2100&prs=46&stars=10&contributed=15)
 
-![Top Languages](https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api/top-langs/?username=nve-quant&layout=compact&theme=radical&hide=html,css&langs_count=8&hide_border=true&card_width=445)
+![Top Languages](https://github-readme-stats-nicholas-van-eerdes-projects.vercel.app/api/top-langs/?username=nve-quant&layout=compact&theme=radical&hide=html,css&langs_count=8&hide_border=true&card_width=445&custom_title=Most%20Used%20Languages&hide_progress=false&langs=Python,TypeScript,JavaScript,Rust,C++,Solidity,Go,C&percentages=44.71,15.08,13.64,9.28,7.22,4.88,3.21,1.98)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nve-quant&theme=radical&hide_border=true&total_contributions=2100)
 
