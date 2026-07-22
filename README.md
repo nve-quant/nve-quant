@@ -54,7 +54,7 @@ price-impact decomposition materialized in ClickHouse.
 **Core**
 
 ![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=FF7043)
-![C%2B%2B](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=6DB3F2)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=6DB3F2)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4FA3E3)
 
@@ -86,7 +86,7 @@ price-impact decomposition materialized in ClickHouse.
 ![Solana](https://img.shields.io/badge/Solana-0D1117?style=flat-square&logo=solana&logoColor=14F195)
 ![EVM L2s](https://img.shields.io/badge/EVM_L2s-0D1117?style=flat-square&logo=ethereum&logoColor=8C8CFF)
 ![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=A8B3CF)
-![Uniswap V3%2FV4](assets/badges/uniswap-v3-v4.svg)
+![Uniswap V3/V4](assets/badges/uniswap-v3-v4.svg)
 ![Aerodrome](assets/badges/aerodrome.svg)
 ![Raydium](assets/badges/raydium.svg)
 ![Orca](assets/badges/orca.svg)
