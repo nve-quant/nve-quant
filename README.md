@@ -94,12 +94,14 @@ price-impact decomposition materialized in ClickHouse.
 
 **DEX**
 
-![Uniswap V3/V4](assets/badges/uniswap-v3-v4.svg)
+![Uniswap](assets/badges/uniswap.svg)
 ![Aerodrome](assets/badges/aerodrome.svg)
 ![Balancer](assets/badges/balancer.svg)
 ![PancakeSwap](assets/badges/pancakeswap.svg)
 ![Raydium](assets/badges/raydium.svg)
 ![Orca](assets/badges/orca.svg)
+![Meteora](assets/badges/meteora.svg)
+![Pump.fun](assets/badges/pump-fun.svg)
 
 **Infrastructure**
 
