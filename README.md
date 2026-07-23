@@ -105,6 +105,7 @@ price-impact decomposition materialized in ClickHouse.
 
 ![Bare Metal · Equinix Colo](https://img.shields.io/badge/Bare_Metal_%C2%B7_Equinix_Colo-0D1117?style=flat-square&logo=equinixmetal&logoColor=ED1C24)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes · GKE](https://img.shields.io/badge/Kubernetes_%C2%B7_GKE-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
 
 **Dashboards** — order books, execution quality, microstructure, venue intelligence
