@@ -83,8 +83,12 @@ price-impact decomposition materialized in ClickHouse.
 
 **Chain**
 
-![Solana](https://img.shields.io/badge/Solana-0D1117?style=flat-square&logo=solana&logoColor=14F195)
-![EVM L2s](https://img.shields.io/badge/EVM_L2s-0D1117?style=flat-square&logo=ethereum&logoColor=8C8CFF)
+![Solana](assets/badges/solana.svg)
+![Ethereum](assets/badges/ethereum.svg)
+![Arbitrum](assets/badges/arbitrum.svg)
+![BNB Chain](assets/badges/bnb-chain.svg)
+![Base](assets/badges/base.svg)
+![Optimism](assets/badges/optimism.svg)
 ![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=A8B3CF)
 ![Foundry · Anvil](https://img.shields.io/badge/Foundry_%C2%B7_Anvil-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzU4QTZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xNSAxMmwtOS4zNzMgOS4zNzNhMSAxIDAgMCAxLTMuMDAxLTNMMTIgOW02IDZsNC00Ii8%2BPHBhdGggZD0ibTIxLjUgMTEuNWwtMS45MTQtMS45MTRBMiAyIDAgMCAxIDE5IDguMTcydi0uMzQ0YTIgMiAwIDAgMC0uNTg2LTEuNDE0bC0xLjY1Ny0xLjY1N0E2IDYgMCAwIDAgMTIuNTE2IDNIOWwxLjI0MyAxLjI0M0E2IDYgMCAwIDEgMTIgOC40ODVWMTBsMiAyaDEuMTcyYTIgMiAwIDAgMSAxLjQxNC41ODZMMTguNSAxNC41Ii8%2BPC9nPjwvc3ZnPg%3D%3D)
 
@@ -92,6 +96,8 @@ price-impact decomposition materialized in ClickHouse.
 
 ![Uniswap V3/V4](assets/badges/uniswap-v3-v4.svg)
 ![Aerodrome](assets/badges/aerodrome.svg)
+![Balancer](assets/badges/balancer.svg)
+![PancakeSwap](assets/badges/pancakeswap.svg)
 ![Raydium](assets/badges/raydium.svg)
 ![Orca](assets/badges/orca.svg)
 
